@@ -1,0 +1,9 @@
+npm init : Para crear un archivo json
+npm install nodemon --save-dev // sera una dependencia necesaria solo cuando este ejecutando mi apliocacion -> se emcuentra en package-json
+ 
+para borrar la dependencia: npm uninstall nodemon
+
+---------------------------------
+****************************
+//Configureaciones Yargs:
+
